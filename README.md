@@ -1,6 +1,6 @@
 # Gravity Data Science
 
-Data science for GRAVITY+ and LISA datasets.
+Data science for GRAVITY+ and LISA datasets, together with visualization tools and supporting resources.
 
 Paper: https://arxiv.org/abs/2512.11046
 

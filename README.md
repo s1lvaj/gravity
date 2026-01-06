@@ -1,6 +1,6 @@
 # Gravity Data Science
 
-Data science for GRAVITY+ and LISA datasets, together with visualization tools and supporting resources.
+This repository contains data science resources and visualization tools, with applications to the astrophysics projects being worked at Faculty of Engineering of the University of Porto as of 2025/2026, namely GRAVITY+ and LISA projects.
 
 Paper: https://arxiv.org/abs/2512.11046
 
